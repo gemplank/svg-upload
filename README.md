@@ -1,2 +1,3 @@
-# svg-upload
-Upload SVG's to the media library
+# SVG Upload
+
+A plugin to allow SVG uploads into the media library.
